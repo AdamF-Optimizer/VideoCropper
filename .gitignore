@@ -1,0 +1,11 @@
+.venv/
+.runtime/
+.tools/
+.cache/
+.state/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+test-artifacts/

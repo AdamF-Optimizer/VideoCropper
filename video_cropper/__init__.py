@@ -1,0 +1,1 @@
+"""Video Cropper desktop application."""
